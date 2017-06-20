@@ -18,7 +18,7 @@ public class RecipeHandlerMagnetizer extends RecipeHandlerElnBase {
     
     @Override
     public RecipesList getRecipes() {
-        return Eln.instance.magnetiserRecipes;
+        return Eln.instance.magnetizerRecipes;
     }
     
 }
